@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Kuttubek7=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+
+
 <!--
 **Kuttubek7/Kuttubek7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
