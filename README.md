@@ -1,8 +1,12 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<h1 align="center">Hi there 👋, I'm Kuttubek 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Kuttubek7=KnlnKS)](https://github.com/Kuttubek7/README.md)
+<!-- <h3 align="center">Student of the school 21</h3> -->
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Kuttubek7=KnlnKS&theme=dark)](https://github.com/Kuttubek7/README.md)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+of+the+school+21)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Kuttubek7=anuraghazra&layout=compact)](https://github.com/Kuttubek7/github-readme-stats)
+
 
 <!--
 **Kuttubek7/Kuttubek7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
