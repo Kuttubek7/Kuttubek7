@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+of+the+school+21)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Kuttubek7=anuraghazra&layout=compact)](https://github.com/Kuttubek7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Kuttubek7=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
