@@ -7,7 +7,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttubek7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttubek7)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttubek7)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <!--
 **Kuttubek7/Kuttubek7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
