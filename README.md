@@ -9,7 +9,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttubek7)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Kuttubek LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <!--
