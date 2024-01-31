@@ -20,8 +20,6 @@
 - 📫 How to reach me: https:/t.me/starfirs21
 - ⚡ Fun fact: The first programmer in the history of mankind was a woman.
 
-
-
 ### Languages and tools
 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title="git" width="40" height="40"/>&nbsp;
@@ -42,9 +40,9 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparrvio&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sparrvio&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sparrvio&theme=github_dark" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sparrvio&theme=github_dark" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sparrvio&theme=github_dark&utcOffset=8" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuttubek7&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kuttubek7&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kuttubek7&theme=github_dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuttubek7&theme=github_dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuttubek7&theme=github_dark&utcOffset=8" alt=""/>
 </div>
