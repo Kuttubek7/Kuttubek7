@@ -6,11 +6,11 @@
 
 [![Kuttubek LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I'm currently studying at school 21
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...
+<!-- - 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
+- 🌱 I'm currently studying at school 21
 - 📫 How to reach me: https:/t.me/starfirs21
 - ⚡ Fun fact: The first programmer in the history of mankind was a woman.
 
