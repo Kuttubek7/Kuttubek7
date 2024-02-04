@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+of+the+school+21)](https://git.io/typing-svg)
 
 <div id="socials" align="center">
-  <a href="https://t.me/sparrvio">
+  <a href="https://t.me/starfirs21">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
