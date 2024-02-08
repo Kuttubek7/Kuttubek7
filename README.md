@@ -17,7 +17,7 @@
 - 💬 Ask me about ...-->
 ### About me 
 - 🌱 I'm currently studying at school 21
-- 📫 How to reach me: https:/t.me/starfirs21
+<!-- - 📫 How to reach me: https:/t.me/starfirs21 -->
 - ⚡ Fun fact: The first programmer in the history of mankind was a woman.
 
 ### Languages and tools
