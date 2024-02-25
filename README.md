@@ -3,10 +3,10 @@
   </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+of+the+school+21)](https://git.io/typing-svg)
+<!-- 
+[![Kuttubek LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7&theme=dark)](https://github.com/KnlnKS/leetcode-stats) </li> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttubek7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Kuttubek LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7&theme=dark)](https://github.com/KnlnKS/leetcode-stats) </li> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttubek7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttubek7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </li> [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttubek7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </li> [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
 
 
 <!-- - 🔭 I’m currently working on ...
@@ -39,5 +39,6 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuttubek7&theme=github_dark" alt=""/> </li> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kuttubek7&theme=github_dark" alt=""/> </li> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kuttubek7&theme=github_dark" alt=""/> </li> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuttubek7&theme=github_dark" alt=""/> </li> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuttubek7&theme=github_dark&utcOffset=8" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuttubek7&theme=github_dark" alt=""/> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kuttubek7&theme=github_dark" alt=""/> </li> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kuttubek7&theme=github_dark" alt=""/> </li> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuttubek7&theme=github_dark" alt=""/> </li> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuttubek7&theme=github_dark&utcOffset=8" alt=""/>
 </div>
