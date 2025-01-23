@@ -8,9 +8,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kuttubek7)](https://git.io/streak-stats)
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-
 
 <!--
 [![Kuttubek LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuttubek7&theme=dark)](https://github.com/KnlnKS/leetcode-stats) </li> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttubek7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
