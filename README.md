@@ -18,7 +18,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 ### About me 
-- 🌱 I'm currently studying at school 21
+- 🌱 I'm currently studying at school 21 and also at the MEI Institute (Faculty: Applied Informatics)
 <!-- - 📫 How to reach me: https:/t.me/starfirs21 <a href="https://t.me/starfirs21"> </a> -->
 - ⚡ Fun fact: The first programmer in the history of mankind was a woman.
 
